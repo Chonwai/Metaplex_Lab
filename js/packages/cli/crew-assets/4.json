@@ -1,0 +1,48 @@
+{
+    "name": "5",
+    "symbol": "",
+    "image": "4.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9UAXeq2E5Vz24UrnK4F5nxgoeV6PLZperpgxfryTYV78",
+                "share": 40
+            },
+            {
+                "address": "A49Ha8soTkAcVXBeEnajQ1dWTqN1gQbjU9YrnyS7oCiQ",
+                "share": 60
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 1000,
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "brown"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-eyes"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "block-mouth"
+        },
+        {
+            "trait_type": "face",
+            "value": "teal-face"
+        }
+    ],
+    "collection": {
+        "name": "haha-face",
+        "family": "face"
+    }
+}
